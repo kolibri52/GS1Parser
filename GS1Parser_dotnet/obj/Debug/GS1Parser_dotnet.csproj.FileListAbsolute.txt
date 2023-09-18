@@ -1,0 +1,6 @@
+G:\Downloads\GS1Parser-main\GS1Parser-main\CSharp\GS1Parser_dotnet\obj\Debug\GS1Parser_dotnet.csproj.CoreCompileInputs.cache
+G:\Downloads\GS1Parser-main\GS1Parser-main\CSharp\GS1Parser_dotnet\bin\Debug\GS1Parser_dotnet.dll
+G:\Downloads\GS1Parser-main\GS1Parser-main\CSharp\GS1Parser_dotnet\bin\Debug\GS1Parser_dotnet.pdb
+G:\Downloads\GS1Parser-main\GS1Parser-main\CSharp\GS1Parser_dotnet\obj\Debug\GS1Parser_dotnet.dll
+G:\Downloads\GS1Parser-main\GS1Parser-main\CSharp\GS1Parser_dotnet\obj\Debug\GS1Parser_dotnet.pdb
+G:\Downloads\GS1Parser-main\GS1Parser-main\CSharp\GS1Parser_dotnet\obj\Debug\GS1Parser_dotnet.csproj.AssemblyReference.cache

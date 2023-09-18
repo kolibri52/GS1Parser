@@ -1,0 +1,5 @@
+G:\SourceCode\LabVIEW\GS1_dotnet\GS1Parser_dotnet\bin\Debug\GS1Parser.dll
+G:\SourceCode\LabVIEW\GS1_dotnet\GS1Parser_dotnet\bin\Debug\GS1Parser.pdb
+G:\SourceCode\LabVIEW\GS1_dotnet\GS1Parser_dotnet\obj\Debug\GS1Parser_Lib.csproj.CoreCompileInputs.cache
+G:\SourceCode\LabVIEW\GS1_dotnet\GS1Parser_dotnet\obj\Debug\GS1Parser.dll
+G:\SourceCode\LabVIEW\GS1_dotnet\GS1Parser_dotnet\obj\Debug\GS1Parser.pdb

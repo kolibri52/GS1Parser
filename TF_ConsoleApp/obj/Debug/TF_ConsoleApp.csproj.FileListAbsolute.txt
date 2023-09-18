@@ -1,0 +1,10 @@
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\bin\Debug\TF_ConsoleApp.exe.config
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\bin\Debug\TF_ConsoleApp.exe
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\bin\Debug\TF_ConsoleApp.pdb
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\bin\Debug\GS1Parser.dll
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\bin\Debug\GS1Parser.pdb
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\obj\Debug\TF_ConsoleApp.csproj.AssemblyReference.cache
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\obj\Debug\TF_ConsoleApp.csproj.CoreCompileInputs.cache
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\obj\Debug\TF_ConsoleApp.csproj.CopyComplete
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\obj\Debug\TF_ConsoleApp.exe
+G:\SourceCode\LabVIEW\GS1_dotnet\TF_ConsoleApp\obj\Debug\TF_ConsoleApp.pdb
