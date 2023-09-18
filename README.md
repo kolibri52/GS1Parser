@@ -7,8 +7,15 @@ The GTIN Validator is from https://github.com/dominiklessel/node-barcoder/blob/m
 
 Thank you very much for sharing and providing of this GS1 Parser.
 
-# Usage and Content
-The c# library "GS1Parser.dll" can easily called from other programming languages like LabVIEW.
-Call the .NET constructor GS1Parser().
-Execute the method Parse(string data). This method returns the parsed results as a dictionary,
+# Usage-Example for LabVIEW Code
+The c# library "GS1Parser.dll" can easily called from other programming languages like LabVIEW:
+1. Call the .NET constructor GS1Parser().
+2. Execute the method Parse(string data).
+3. This method returns the parsed results as a dictionary,
 which can be converted and read by several other functions.
+![Snippet Default](https://github.com/kolibri52/GS1Parser/assets/121813005/198a834d-8375-4b2b-ad59-7c14535691ba)
+
+The GS1 Application Identifiers are updated and extended from time to time by the GS1 organisation (https://www.gs1.org/standards/barcodes/application-identifiers).
+However, the GS1Definition object can be extended and the customized Definition-Object
+can be used by the alternative constructor:
+![Snippet_Extend_GS1Definition](https://github.com/kolibri52/GS1Parser/assets/121813005/45780103-4654-456b-bd19-5ff898046998)
