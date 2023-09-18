@@ -19,3 +19,6 @@ The GS1 Application Identifiers are updated and extended from time to time by th
 However, the GS1Definition object can be extended and the customized Definition-Object
 can be used by the alternative constructor:
 ![Snippet_Extend_GS1Definition](https://github.com/kolibri52/GS1Parser/assets/121813005/45780103-4654-456b-bd19-5ff898046998)
+
+# Disclaimer
+All parts here are provided as is, and no promises or guarantees regarding quality of the results can be made.
